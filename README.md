@@ -2,7 +2,17 @@
 
 Welcome to Academic-Supervisor WebUI (Academic-Supervisor: One tool to rule them all), the hub for LLM (Large Language Model) models. This project aims to provide a user-friendly interface to access and utilize various LLM models for a wide range of tasks. Whether you need help with writing, coding, organizing data, generating images, generating music or seeking answers to your questions, Academic-Supervisor WebUI has got you covered.
 
-As an all-encompassing tool with access to over 300 AI expert conditionning across diverse domains and more than 500 fine tuned models over multiple domains, you now have an immediate resource for any problem. Whether your car needs repair or if you need coding assistance in Python, C++ or JavaScript; feeling down about life decisions that were made wrongly yet unable see how? Ask Academic-Supervisor. Need guidance on what lies ahead healthwise based on current symptoms presented, our medical assistance AI can help you get a potential diagnosis and guide you to seek the right medical care. If stuck with legal matters such contract interpretation feel free reach out to Lawyer personality, to get some insight at hand -all without leaving comfort home. Not only does it aid students struggling through those lengthy lectors but provides them extra support during assessments too, so they are able grasp concepts properly rather then just reading along lines which could leave many confused afterward. Want some entertainment? Then engage Laughter Botand let yourself go enjoy hysterical laughs until tears roll from eyes while playing Dungeons&Dragonsor make up crazy stories together thanks to Creative Story Generator. Need illustration work done? No worries, Artbot got us covered there! And last but definitely not least LordOfMusic here for music generation according to individual specifications. So essentially say goodbye boring nights alone because everything possible can be achieved within one single platform called Academic-Supervisor...
+As an all-encompassing tool with access to over 300 AI expert conditionning across diverse domains and more than 500 fine tuned models over multiple domains, you now have an immediate resource for any problem. Whether your genomic pipeline needs repair or if you need coding assistance in Python, C++ or JavaScript; 
+
+feeling down about life decisions that were made wrongly yet unable see how? Ask Academic-Supervisor. 
+
+Need guidance on what lies ahead healthwise based on current symptoms presented, our medical assistance AI can help you get a potential diagnosis and guide you to seek the right medical care. 
+
+If stuck with legal matters such contract interpretation feel free reach out to Lawyer personality, to get some insight at hand -all without leaving comfort home. 
+
+Not only does it aid students struggling through those lengthy lectors but provides them extra support during assessments too, so they are able grasp concepts properly rather then just reading along lines which could leave many confused afterward. 
+
+Need illustration work done? No worries, Artbot got us covered there! And last but definitely not least LordOfMusic here for music generation according to individual specifications. So essentially say goodbye boring nights alone because everything possible can be achieved within one single platform called Academic-Supervisor...
 
 ## Features
 
